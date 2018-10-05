@@ -1,6 +1,7 @@
 syntax: glob
 
 .vs/
+.project
 bin/**
 *.sym
 *.SYM
@@ -46,3 +47,4 @@ source/tools/data.mac
 *.suo
 NEXTOR.SYS
 NEXTORK.SYS
+source/kernel/bank5/printf.cs
