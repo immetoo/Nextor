@@ -1,6 +1,7 @@
 syntax: glob
 
 .vs/
+.project
 bin/**
 *.sym
 *.SYM
@@ -46,3 +47,9 @@ source/tools/data.mac
 *.suo
 NEXTOR.SYS
 NEXTORK.SYS
+
+source/kernel/drivers/b0labels.inc
+source/kernel/drivers/bank.inc
+source/kernel/drivers/condasm.inc
+source/kernel/drivers/const.inc
+source/kernel/drivers/macros.inc
